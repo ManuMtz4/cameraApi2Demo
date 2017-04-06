@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CameraApi2 - Manuel Martinez</string>
+    <string name="cambiarCamera">Cambiar</string>
+    <string name="tomarFoto">Foto</string>
+</resources>
